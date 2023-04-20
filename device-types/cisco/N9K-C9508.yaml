@@ -1,0 +1,83 @@
+---
+manufacturer: Cisco
+model: Nexus 9508
+slug: cisco-n9k-c9508
+part_number: N9K-C9508
+u_height: 13
+is_full_depth: true
+interfaces:
+  - name: mgmt0
+    type: 1000base-t
+    mgmt_only: true
+  - name: mgmt1
+    type: 1000base-t
+    mgmt_only: true
+  - name: mgmtsdnet
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  - name: Slot 1
+    label: Module 1
+    position: 1
+    description: Module 1
+  - name: Slot 2
+    label: Module 2
+    position: 2
+    description: Module 2
+  - name: Slot 3
+    label: Module 3
+    position: 3
+    description: Module 3
+  - name: Slot 4
+    label: Module 4
+    position: 4
+    description: Module 4
+  - name: Slot 5
+    label: Module 5
+    position: 5
+    description: Module 5
+  - name: Slot 6
+    label: Module 6
+    position: 6
+    description: Module 6
+  - name: Slot 7
+    label: Module 7
+    position: 7
+    description: Module 7
+  - name: Slot 8
+    label: Module 8
+    position: 8
+    description: Module 8
+  - name: Slot 22
+    label: Fabric Module
+    position: 22
+    description: Fabric Module
+  - name: Slot 23
+    label: Fabric Module
+    position: 23
+    description: Fabric Module
+  - name: Slot 24
+    label: Fabric Module
+    position: 24
+    description: Fabric Module
+  - name: Slot 26
+    label: Fabric Module
+    position: 26
+    description: Fabric Module
+  - name: Slot 27
+    label: Supervisor Module
+    position: 27
+    description: Supervisor Module
+  - name: Slot 28
+    label: Supervisor Module
+    position: 28
+    description: Supervisor Module
+  - name: Slot 29
+    label: System Controller
+    position: 29
+    description: System Controller
+  - name: Slot 30
+    label: System Controller
+    position: 30
+    description: System Controller
+  
